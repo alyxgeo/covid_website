@@ -1,0 +1,48 @@
+.appointment-h{
+    text-align: center;
+}
+
+
+.appointment-wrap{
+    width: 1060px;
+  margin: auto;
+}
+
+.appointment-container{
+    display: flex;
+   justify-content: space-around;
+}
+
+.booth-slot-input{
+    width: 240px;
+    height: 15px;
+    border: 1px solid #464646;
+    border-radius: 15px;
+    padding: 10px;
+
+    
+}
+
+.appointment-details{
+    margin-top: 30px;
+}
+
+.line{
+    width: 440px;
+    height: 0px;
+    border: 1px solid #d0dfff;
+}
+
+
+.timeslot-drop-h > h4{
+    font-weight: 500;
+    
+    }
+
+    .timeslot-drop-br{
+        width: 240px;
+        height: 40px;
+        border: 1px solid #464646;
+        border-radius: 15px;
+        padding: 10px;
+    }

@@ -1,0 +1,41 @@
+.reg-wrap{
+    margin-bottom: 30px;
+}
+
+
+
+.reg{
+    background: #D7E9F6;
+    color: #495375;
+    text-align: center;
+    height: 130px; 
+}
+
+
+
+.reg-h{
+    margin: 0px;
+    padding-top: 10px;
+}
+
+
+
+.reg-btn{
+    margin-top: 20px;
+height: 63px;
+width: 624px;
+left: 490px;
+top: 1650px;
+border-radius: 15px;
+background-color: #009FF9;
+}
+
+
+
+.reg-btn-wrap{
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+
